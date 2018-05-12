@@ -1,4 +1,8 @@
 _repo: Scientific-American-Supplement-No-467-December-13-1884_46706
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46706-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46706#Scientific-American-Supplement-No-467-December-13-1884
 gutenberg_issued: '2014-08-28'
 gutenberg_type: Text
 identifiers:
